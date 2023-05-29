@@ -1,0 +1,17 @@
+<report>
+    <location>
+        <town>Kebayoran Baru</town>
+        <city>Jakarta Selatan</city>
+        <state>DKI Jakarta</state>
+    </location>
+    <transaction>
+        <transactionnumber>123457</transactionnumber>
+        <transaction_description>PAYMENT SUCCESSFULLY</transaction_description>
+        <date_transaction>T00:00:00 </date_transaction>
+        <transmode_code>TMDN</transmode_code>
+        <amount>13000</amount>
+    </transaction>
+    <report_indicators>
+        <indicator>IND</indicator>
+    </report_indicators>
+</report>
